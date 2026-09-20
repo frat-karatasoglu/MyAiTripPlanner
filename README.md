@@ -1,3 +1,4 @@
+
 # AI Trip Planner
 
 AI Trip Planner, kullanicinin sehir, ilgi alanlari, butce ve seyahat tipi bilgilerine gore AI destekli gezi plani olusturan full-stack bir uygulamadir.
@@ -20,7 +21,10 @@ Proje iki ana parcadan olusur:
 
 ## Ekran Görüntüleri
 
-<!-- Buraya ekran görüntülerini sürükleyip bırak, GitHub otomatik link oluşturacak -->
+<img width="800" height="398" alt="1789326745791" src="https://github.com/user-attachments/assets/a997d953-b75b-46c9-8bfc-fd4d89ba92ed" />
+<img width="800" height="395" alt="1789326745412" src="https://github.com/user-attachments/assets/4300952d-3089-454e-b422-80946da506cd" />
+<img width="800" height="395" alt="1789326745392" src="https://github.com/user-attachments/assets/ab42ba3e-b301-4b89-ad7c-4cb5fe652c10" />
+<img width="800" height="395" alt="1789326745327" src="https://github.com/user-attachments/assets/992ff56c-dc21-43e5-b5de-1420c36a96be" />
 
 
 ## Teknolojiler
