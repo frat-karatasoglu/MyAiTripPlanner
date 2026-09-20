@@ -18,6 +18,11 @@ Proje iki ana parcadan olusur:
 - Iletisim mesaji: Iletisim formu ve mesaj yonetimi
 - Abonelik altyapisi: Stripe tabanli plan endpointleri
 
+## Ekran Görüntüleri
+
+<!-- Buraya ekran görüntülerini sürükleyip bırak, GitHub otomatik link oluşturacak -->
+
+
 ## Teknolojiler
 
 - Frontend: React, TypeScript, Vite, Tailwind CSS, Zustand, React Query
